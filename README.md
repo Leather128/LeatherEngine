@@ -44,7 +44,7 @@ You can have different note types that give different amounts of health or give 
 
 You can load, share, and play replays of songs you've played! They can even be included in mods in the mods folder to make them easier to share!
 
-> More to come...
+> ~~More to come...~~ That's it! Forever!
 
 ## Credits
 
