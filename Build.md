@@ -1,5 +1,9 @@
 # Building the game
 
+> [!WARNING]
+> A lot of the versions that were used for this engine are no longer the latest,
+> you will have to do some expeditions to find the correct numbers. Sorry.
+
 Step 1. [Install git-scm](https://git-scm.com/downloads) if you don't have it already.
 
 Step 2. [Install Haxe](https://haxe.org/download/)
