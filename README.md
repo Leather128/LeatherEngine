@@ -1,5 +1,9 @@
 # Leather Engine
 
+> [!WARNING]
+> This engine is DEPRECATED and will no longer be maintained.
+> I recommend using either [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine), [FNF-Godot-Engine](https://github.com/rayanmargham/FNF-Godot-Engine), or [Andromeda Engine](https://github.com/nebulazorua/andromeda-engine)
+
 ![Logo](art/Logo.png)
 
 This is the repository for Leather Engine, an engine created for making and playing mods for Friday Night Funkin'.
